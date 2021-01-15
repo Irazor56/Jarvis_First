@@ -3,7 +3,7 @@ from discord.ext import commands
 import asyncio
 import youtube_dl
 
-TOKEN = 'Nzk5NjQxMTUxODc4NDYzNTQ4.YAGh2w.xOPVTHJjZas2xQtVdXbs36J5P_o'
+TOKEN = ''
 
 # Suppress noise about console usage from errors
 youtube_dl.utils.bug_reports_message = lambda: ''
